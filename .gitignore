@@ -37,5 +37,11 @@
 # Build data
 /build/
 
+# Vendor dir
+/vendor/
+
+# PHPStorm
+.idea/
+
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~

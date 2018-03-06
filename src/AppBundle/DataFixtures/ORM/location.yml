@@ -1,0 +1,6 @@
+AppBundle\Entity\Location:
+    location{1..50}:
+        name: <name()>
+        address: <address()>
+        latitude: <latitude()>
+        longitude: <longitude()>
